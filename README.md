@@ -11,8 +11,7 @@ As a passionate developer, I specialize in crafting elegant solutions in a varie
 
 ### Projects
 
-- **SizimeBot:** A project close to my heart, SizimeBot is a testament to my skills in integrating complex functionalities with user-friendly interfaces.
-
+- **SizimeBot:** This project is the culmination of my efforts to seamlessly integrate Discord with ChatGPT, enabling users to easily converse with an AI. SizimeBot exemplifies my capability to blend cutting-edge technology with user-friendly interfaces for an engaging and effortless chat experience.
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenu-com&layout=compact&count_private=true&show_icons=true&theme=onedark" />
